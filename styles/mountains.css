@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(#e66465, #9198e5);
+    background-attachment: fixed;
+   
+  }
+  
+ 
+  .navbarNav{
+    background-color: #9198e5;
+  }
+  
+  img {
+    width: 450px;
+    height: 230px;
+  }
+  .card {
+    margin: auto;
+    height: 550px;
+    width: 450px; 
+    
+    top: 5cap;
+  }
+  .form-select{
+    text-align: center;
+    display: block;
+    
+  }
+
+

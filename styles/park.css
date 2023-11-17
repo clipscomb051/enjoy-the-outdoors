@@ -1,0 +1,23 @@
+body {
+    background-color: lightsalmon;
+
+}
+
+
+.form-select {
+    text-align: center;
+
+
+    display: flex;
+
+
+}
+
+
+.card {
+    margin: auto;
+
+    width: 450;
+
+    top: 5cap;
+}
